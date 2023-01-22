@@ -5,3 +5,5 @@ const y = 10;
 function saberi(a, b) {
     return a + b;
 }
+
+// oduzmi
